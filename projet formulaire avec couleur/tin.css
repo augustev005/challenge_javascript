@@ -1,0 +1,23 @@
+body{
+    background-color: #A9D7E9;
+    display: block;
+    align-self: center;
+    text-align: center;
+}
+form{
+    width: 70%;
+    vertical-align: center;
+    background-color: #F3F3F3 ;
+    padding: 30px;
+    margin: auto;
+    border-radius: 20px;
+}
+
+button{
+    background: #6BA2CE; border: 2px solid #6BA2CE; border-radius: 5px; color: white;
+    margin-top: 10px;
+}
+
+.rr{
+    text-align: right; padding: 10px;
+}

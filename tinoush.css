@@ -1,0 +1,17 @@
+body{
+    background-color: #A9D7E9;
+    display: block;
+    align-self: center;
+    text-align: center;
+}
+form{
+    width: 70%;
+    vertical-align: center;
+    background-color: #F3F3F3 ;
+    padding: 30px;
+    margin: auto;
+    border-radius: 20px;
+}
+.button button{
+    background: #6BA2CE;
+}
